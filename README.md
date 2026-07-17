@@ -1,37 +1,85 @@
-# Engenharia de Prompts na Prática
+# Engenharia de Prompts - Estudos Práticos
 
-## Sobre
+## Sobre o projeto
 
-Este projeto reúne estudos, exercícios e exemplos práticos desenvolvidos durante o curso **Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados**.
+Este repositório reúne meus estudos, exercícios e experimentações realizados durante o curso:
 
-O objetivo é demonstrar como a construção de prompts bem estruturados melhora a qualidade das respostas geradas por ferramentas de IA.
+**"Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados"**
 
-## Conteúdo
+Curso realizado pela **Fundação Getulio Vargas (FGV)**, com orientação do professor **Francisco Saraiva Jr.**
 
-- Fundamentos da Engenharia de Prompts
-- Método CLARO
-- Comparação entre Zero-shot e prompts estruturados
-- Uso de personas (Lentes)
-- Boas práticas
-- Exemplos aplicados
+O objetivo deste projeto é documentar minha evolução no aprendizado de técnicas de Engenharia de Prompts e minha aplicação prática utilizando ferramentas de Inteligência Artificial Generativa.
 
-## Ferramentas
+---
+
+## Objetivos de aprendizagem
+
+Durante os estudos, busco compreender:
+
+- Como estruturar melhores comandos para IA Generativa;
+- Como o contexto influencia os resultados;
+- Como utilizar diferentes personas (Lentes);
+- Como comparar respostas geradas por diferentes abordagens;
+- Como melhorar a qualidade das interações com modelos de IA.
+
+---
+
+## Conteúdos estudados
+
+### Engenharia de Prompts
+
+Conceitos iniciais sobre criação de instruções mais claras e eficientes para modelos de IA.
+
+### Método CLARO
+
+Aplicação dos conceitos:
+
+- Contexto
+- Lente
+- Ação
+- Raciocínio
+- Organização
+
+### Técnicas exploradas
+
+- Zero-shot Prompting;
+- Uso de personas;
+- Estruturação de comandos;
+- Comparação de resultados.
+
+---
+
+## Ferramentas utilizadas
 
 - ChatGPT
-- Claude
 - Gemini
+- Claude
+
+---
 
 ## Aprendizados
 
-Durante o desen
-volvimento deste projeto foi possível compreender como contexto, persona e organização influenciam diretamente os resultados produzidos por modelos de IA generativa.
+Durante os exercícios, observei que a qualidade da resposta da IA está diretamente relacionada à forma como o comando é estruturado.
+
+A inclusão de contexto, objetivo e formato esperado ajuda a gerar respostas mais organizadas e alinhadas à necessidade apresentada.
+
+---
+
+## Próximos passos
+
+Continuar praticando Engenharia de Prompts e aplicar esses conhecimentos em projetos envolvendo:
+
+- Inteligência Artificial;
+- Automação de processos;
+- Análise de informações;
+- Desenvolvimento de soluções digitais.
 
 ---
 
 ## Agradecimentos
 
-Este projeto foi desenvolvido como parte dos estudos realizados no curso **"Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados"**, da **Fundação Getulio Vargas (FGV)**.
+Este projeto foi desenvolvido a partir dos conhecimentos adquiridos no curso **"Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados"**, da **Fundação Getulio Vargas (FGV)**.
 
-Agradecimento ao professor **Francisco Saraiva Jr.** pela condução do curso e pelos conhecimentos compartilhados, que contribuíram para o desenvolvimento deste projeto.
+Agradeço ao professor **Francisco Saraiva Jr.** pela condução do curso e pelos conhecimentos compartilhados.
 
-> **Observação:** Este repositório foi elaborado por mim com base nos conhecimentos adquiridos durante o curso, refletindo minha interpretação e aplicação prática dos conceitos estudados.
+> Este repositório representa minha jornada de aprendizado, prática e evolução nos conceitos de Engenharia de Prompts.
