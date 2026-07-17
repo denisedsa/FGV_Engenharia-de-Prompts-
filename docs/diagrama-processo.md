@@ -1,18 +1,10 @@
-              Engenharia de Prompts
+# Fluxo de Construção de um Prompt
 
-                    Objetivo
-                       │
-                       ▼
-                Definir Contexto
-                       │
-                       ▼
-                 Escolher Persona
-                       │
-                       ▼
-                 Descrever Ação
-                       │
-                       ▼
-               Organizar Resposta
-                       │
-                       ▼
-                Resultado da IA
+```mermaid
+flowchart LR
+A[Contexto] --> B[Lente]
+B --> C[Ação]
+C --> D[Raciocínio]
+D --> E[Organização]
+E --> F[Resposta da IA]
+```
