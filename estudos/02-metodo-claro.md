@@ -1,38 +1,59 @@
-# Método CLARO
+# Método CLARO para criação de prompts
 
-O Método CLARO é uma abordagem para estruturar prompts de forma mais organizada.
+## Introdução
 
-## C - Contexto
+O método CLARO apresenta uma forma estruturada de pensar na criação de prompts, organizando os elementos necessários para uma melhor interação com a Inteligência Artificial.
 
-Define a situação ou cenário.
+---
 
-Exemplo:
-"Uma empresa deseja automatizar seu processo de admissão."
+## Estrutura do método
 
-## L - Lente
+### C - Contexto
 
-Define a perspectiva ou papel que a IA deve assumir.
-
-Exemplo:
-"Atue como especialista em Recursos Humanos."
-
-## A - Ação
-
-Define o que a IA deve realizar.
+Apresentar informações sobre a situação ou problema.
 
 Exemplo:
-"Crie um fluxo de automação."
 
-## R - Raciocínio
+"Estou criando uma documentação de processo de RH..."
 
-Indica critérios importantes para considerar.
+---
 
-Exemplo:
-"Considere redução de erros e ganho de produtividade."
+### L - Lente
 
-## O - Organização
-
-Define como a resposta deve ser apresentada.
+Definir a perspectiva ou papel que a IA deve assumir.
 
 Exemplo:
-"Apresente em tópicos."
+
+"Atue como um analista de processos..."
+
+---
+
+### A - Ação
+
+Descrever claramente a atividade esperada.
+
+Exemplo:
+
+"Analise o fluxo e identifique oportunidades de melhoria."
+
+---
+
+### R - Raciocínio
+
+Solicitar uma análise estruturada considerando critérios definidos.
+
+---
+
+### O - Organização
+
+Definir o formato esperado da resposta.
+
+Exemplo:
+
+"Apresente em tópicos contendo problema, análise e recomendações."
+
+---
+
+## Aprendizado
+
+O método ajuda a transformar uma solicitação genérica em uma instrução mais completa, aumentando a possibilidade de obter respostas mais úteis.
